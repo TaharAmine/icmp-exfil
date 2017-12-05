@@ -1,2 +1,4 @@
 # icmp-exfil
-transfer data over ICMP using ping -p
+Transfer data over ICMP using ping -p
+
+This is currently very rough.
